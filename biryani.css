@@ -1,0 +1,13 @@
+.highlight{
+    color: chocolate;
+}
+body{
+    background-image: linear-gradient(green,orange,pink);
+    /* height: 100vh; */
+}
+ul{
+    list-style-type: square;
+}
+#color,#color1s{
+    color: blue;
+}
